@@ -1,0 +1,6 @@
+numpy
+Arcade
+pandas
+Keras
+tensorflow
+notebook
